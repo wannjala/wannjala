@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on open source projects that will refine my Data Science skills.
 - 📫 How to reach me: 
 ```
-                      via Twitter `@wannjala`
-                      via email: `sinergie.ns@gmail.com`.
+                      via Twitter @wannjala
+                      via email: sinergie.ns@gmail.com

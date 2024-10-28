@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Nobert Wanjala Simiyu
-- 👀 I’m interested in Data Science, primarily Machine Learning.
-- 🌱 I’m currently learning Python and will soon upgrade to complex analysis.
-- 💞️ I’m looking to collaborate on open source projects that will refine my Data Science skills.
+- 👋 Hi, I’m Wanjala Simiyu
+- 👀 I’m an Intermediate Data Engineer working towards Senior Data Engineer.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: 
 ```
                       via Twitter @wannjala

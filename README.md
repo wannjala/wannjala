@@ -4,4 +4,4 @@
 - 📫 How to reach me: 
 ```
                       via Twitter @wannjala
-                      via email: sinergie.ns@gmail.com
+                      via email: wannjalas@gmail.com
